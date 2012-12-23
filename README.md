@@ -1,4 +1,7 @@
 numerical-analysis
 ==================
 
-some javaScript for numerical analysis calculation
+Some javaScript for numerical analysis calculation algorithm
+
+These algorithm are inside:
+	1) Lagrange Interpolation
